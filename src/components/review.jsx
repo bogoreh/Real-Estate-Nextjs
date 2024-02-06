@@ -49,10 +49,10 @@ const Review = () => {
             />
             <div className="flex flex-col justify-center items-start">
               <p className="font-bold text-sm leading-[30px] text-cardText capitalize  dark:text-white">
-                herbert lindsey
+                Moustapha Ghergi
               </p>
               <p className="font-semibold text-xs text-blueCardSubTitle leading-5">
-                New York, USA
+                  Djibouti
               </p>
             </div>
           </div>
@@ -75,10 +75,10 @@ const Review = () => {
             />
             <div className="flex flex-col justify-center items-start">
               <p className="font-bold text-sm leading-[30px] text-cardText capitalize  dark:text-white">
-                Noah Russell
+                Abdo Houssein igueh
               </p>
               <p className="font-semibold text-xs text-blueCardSubTitle leading-5">
-                New York, USA
+                  Djiboui
               </p>
             </div>
           </div>
@@ -99,10 +99,10 @@ const Review = () => {
             />
             <div className="flex flex-col justify-center items-start">
               <p className="font-bold text-sm leading-[30px] text-cardText capitalize  dark:text-white">
-                Nellie Griffith
+                Sadick Mahamed Nour
               </p>
               <p className="font-semibold text-xs text-blueCardSubTitle leading-5">
-                New York, USA
+                Djibouti
               </p>
             </div>
           </div>
