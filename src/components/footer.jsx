@@ -94,7 +94,7 @@ const Footer = () => {
           target="_blank"
           className="capitalize text-[10px] sm:text-[13px] font-semibold leading-[25px] text-center text-bluePText hover:text-orange-500 dark:text-white"
         >
-          Design by Spline One
+          Design by Abdibogoreh
         </Link>
         <div className="flex items-start p-4 gap-[57px]">
           <Link
