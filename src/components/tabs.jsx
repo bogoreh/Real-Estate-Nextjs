@@ -67,49 +67,49 @@ const ApartmentCardComponent = () => {
     <div className="flex flex-col sm:grid md:grid-cols-2 xl:grid-cols-3 gap-5 m-5 p-5  ">
       <Card
         imageSrc={cardImageBg4}
-        title="Modern Glass House"
-        price="$ 2,500,000"
+        title="RAYN Trading PLC"
+        price="$ 2,000,000"
       />
       <Card
         imageSrc={cardImageBg5}
-        title="Modern Glass House"
-        price="$ 2,500,000"
+        title="A.Z Real ESTATE"
+        price="$ 2,300,000"
       />
       <Card
         imageSrc={cardImageBg6}
-        title="Modern Glass House"
-        price="$ 2,500,000"
+        title="AAT General Trading and Management Service PLC"
+        price="$ 2,900,000"
       />
       <Card
         imageSrc={cardImageBg7}
-        title="Modern Glass House"
-        price="$ 2,500,000"
+        title="Abba Property"
+        price="$ 2,555,000"
       />
       <Card
         imageSrc={cardImageBg8}
-        title="Modern Glass House"
-        price="$ 2,500,000"
+        title="Abdeehur General Trading PLC"
+        price="$ 1,550,000"
       />
       <Card
         imageSrc={cardImageBg9}
-        title="Modern Glass House"
-        price="$ 2,500,000"
+        title="Abenco General Construction Industry & Tradin"
+        price="$ 1,750,000"
       />
 
       <Card
         imageSrc={cardImageBg1}
-        title="Modern Glass House"
-        price="$ 2,500,000"
+        title="Abew P.L.C"
+        price="$ 1,700,000"
       />
       <Card
         imageSrc={cardImageBg2}
-        title="Modern Glass House"
-        price="$ 2,500,000"
+        title="Access Capital Services S.C"
+        price="$ 1,800,000"
       />
       <Card
         imageSrc={cardImageBg3}
-        title="Modern Glass House"
-        price="$ 2,500,000"
+        title="Access Real Estate S.C"
+        price="$ 1,500,000"
       />
     </div>
   );
