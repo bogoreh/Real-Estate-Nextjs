@@ -87,7 +87,7 @@ const Footer = () => {
 
       <div className="relative py-0 px=[340px] border-t-2 border-solid border-[#EDEFF2] flex items-center justify-between gap-5">
         <p className="capitalize text-[10px] sm:text-[13px] font-semibold leading-[25px] text-center text-bluePText dark:text-white">
-          © 2023 Company. All Rights Reserved.
+          © 2024 Company. All Rights Reserved.
         </p>
         <Link
           href="https://www.figma.com/community/file/1216698613875563555/Company-One"
