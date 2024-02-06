@@ -46,15 +46,15 @@ const HomePage = () => {
       </Head>
       <div className="dark:bg-bgDark">
         <Hero
-          address="225 S 1st St Brooklyn, NY 11211"
-          phone="(929) 123-4567"
+          address="Bole Mikael, Addis-Ababa"
+          phone="+251938175359"
           email="constrctr@restate.com"
         />
 
         <About
-          cardTitle1="15 years"
+          cardTitle1="3 years"
           cardSubText1="in business"
-          cardTitle2="$1 billion"
+          cardTitle2="$100 thousand"
           cardSubText2="property brokered"
           cardTitle3="10,000"
           cardSubText3="transactions"

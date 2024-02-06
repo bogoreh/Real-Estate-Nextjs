@@ -15,48 +15,48 @@ const HomeCardComponent = () => {
     <div className="flex flex-col sm:grid md:grid-cols-2 xl:grid-cols-3 gap-5 m-5 p-5 ">
       <Card
         imageSrc={cardImageBg1}
-        title="Modern Glass House"
-        price="$ 1,625,000"
+        title="friendship international Hotel"
+        price="3559 ETB"
       />
       <Card
         imageSrc={cardImageBg2}
-        title="Modern Glass House"
-        price="$ 1,625,000"
+        title="Miracle Hotel Addis Ababa"
+        price="1977 ETB"
       />
       <Card
         imageSrc={cardImageBg3}
-        title="Modern Glass House"
-        price="$ 1,625,000"
+        title="TH BonRoyal Hotel"
+        price="5458 ETB"
       />
       <Card
         imageSrc={cardImageBg4}
-        title="Modern Glass House"
-        price="$ 1,625,000"
+        title="Tizeze Hotel"
+        price="3610 ETB"
       />
       <Card
         imageSrc={cardImageBg5}
-        title="Modern Glass House"
-        price="$ 1,625,000"
+        title="Tayo Hotel"
+        price="1500 ETB"
       />
       <Card
         imageSrc={cardImageBg6}
-        title="Modern Glass House"
-        price="$ 1,625,000"
+        title="Dream View Guesthouse"
+        price="1800 ETB"
       />
       <Card
         imageSrc={cardImageBg7}
-        title="Modern Glass House"
-        price="$ 1,625,000"
+        title="Miracle Hotel Addis Ababa"
+        price="1582 ETB"
       />
       <Card
         imageSrc={cardImageBg8}
-        title="Modern Glass House"
-        price="$ 1,625,000"
+        title="Daral salam"
+        price="1700 ETB"
       />
       <Card
         imageSrc={cardImageBg9}
-        title="Modern Glass House"
-        price="$ 1,625,000"
+        title="Kelali's Bed and Breakfast"
+        price="1248 ETB"
       />
     </div>
   );
