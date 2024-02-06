@@ -78,7 +78,7 @@ const Footer = () => {
             />
           </div>
           <div className="flex justify-center items-center p-2">
-            <p>5.2M satisfied customers</p>
+            <p>2.2M satisfied customers</p>
           </div>
         </div>
       </div>
