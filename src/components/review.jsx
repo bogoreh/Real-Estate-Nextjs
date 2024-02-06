@@ -99,7 +99,7 @@ const Review = () => {
             />
             <div className="flex flex-col justify-center items-start">
               <p className="font-bold text-sm leading-[30px] text-cardText capitalize  dark:text-white">
-                Sadick Mahamed Nour
+                Akram
               </p>
               <p className="font-semibold text-xs text-blueCardSubTitle leading-5">
                 Djibouti
