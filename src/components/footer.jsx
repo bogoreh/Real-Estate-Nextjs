@@ -11,7 +11,7 @@ const Footer = () => {
       <div className="sm:flex justify-center items-center py-[20px] sm:py-[90px] px-2 ">
         {/* text  */}
         <p className="text-2xl text-center leading-[30px] font-bold text-[#4D5E80] capitalize mb-10 sm:mb-0 dark:text-white">
-          constructor
+          Building
         </p>
         {/* menu  */}
         <div className="relative flex gap-5 justify-center items-centers  sm:w-[450px] ">
