@@ -45,7 +45,7 @@ const Header = () => {
             style={{ color: `${headerText}` }}
             className="py-2 text-2xl font-bold hover:text-orange-500"
           >
-            Constructor
+            Building
           </h1>
         </Link>
       </div>
